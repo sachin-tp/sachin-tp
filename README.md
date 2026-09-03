@@ -5,10 +5,10 @@
 -->
 
 <h1 align="center"> 👋 </h1>
-<div align="center">
+<!-- <div align="center">
   <img src="https://github.com/Ileriayo/ileriayo/blob/master/images/header.gif" alt="header"/>
 </div>
-<p align="center"> (Open for Hiring)</p>
+<p align="center"> (Open for Hiring)</p> -->
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
