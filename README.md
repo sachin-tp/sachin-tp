@@ -1,18 +1,18 @@
  <div align="center">
 
 # Sachin TP
-### Frontend Engineer · React · TypeScript · Next.js
 
-Building scalable, performant, and maintainable web experiences.
+### Frontend Engineer | React | TypeScript | Next.js
+
+*Building scalable, performant, and maintainable web experiences.*
 
 <p>
   <a href="https://www.linkedin.com/in/sachin-tp-737662215/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:sachin.tp@outlook.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Outlook-Contact-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Location-India-138808?style=flat-square" />
 </p>
 
 </div>
@@ -37,19 +37,19 @@ I believe great software isn't just about writing code — it's about making the
 
 ## ⚡ Tech Stack
 
-### Frontend Development
+**Frontend Development**
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
 </p>
 
-### Backend & Database
+**Backend & Database**
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,postgres,firebase" />
 </p>
 
-### Tools & Workflow
+**Tools & Workflow**
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,linux" />
@@ -77,7 +77,7 @@ I believe great software isn't just about writing code — it's about making the
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-tp&layout=compact&theme=transparent&hide_border=true" />
 
-<br/>
+<br/><br/>
 
 <img width="75%" src="https://streak-stats.demolab.com?user=sachin-tp&theme=transparent&hide_border=true" />
 
@@ -87,35 +87,27 @@ I believe great software isn't just about writing code — it's about making the
 
 ## 🐍 Contribution Activity
 
+<div align="center">
 
-<hr>
+*Watch my contributions come to life!*
 
-<h2 align="center">🐍 Contribution Activity</h2>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/sachin-tp/sachin-tp/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/sachin-tp/sachin-tp/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake Animation"
+    src="https://raw.githubusercontent.com/sachin-tp/sachin-tp/output/github-contribution-grid-snake.svg"
+    width="100%"
+  />
+</picture>
 
-<p align="center">
-  Watch my contributions come to life!
-</p>
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/sachin-tp/sachin-tp/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/sachin-tp/sachin-tp/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="GitHub Contribution Snake Animation"
-      src="https://raw.githubusercontent.com/sachin-tp/sachin-tp/output/github-contribution-grid-snake.svg"
-      width="100%"
-    />
-  </picture>
-</p>
-
-<hr>
-
+</div>
 
 ---
 
@@ -123,12 +115,14 @@ I believe great software isn't just about writing code — it's about making the
 
 I'm always interested in discussing software engineering, frontend architecture, modern web technologies, and innovative product ideas.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sachin-tp-737662215/">LinkedIn</a> •
-  <a href="mailto:sachin.tp@outlook.com">Email</a> •
-  <a href="https://github.com/sachin-tp">GitHub</a>
-</p>
+<div align="center">
 
-<p align="center">
-  <i>"Building better software, one engineering decision at a time."</i>
-</p>
+<a href="https://www.linkedin.com/in/sachin-tp-737662215/">LinkedIn</a> •
+<a href="mailto:sachin.tp@outlook.com">Email</a> •
+<a href="https://github.com/sachin-tp">GitHub</a>
+
+<br/><br/>
+
+*Building better software, one engineering decision at a time.*
+
+</div>
