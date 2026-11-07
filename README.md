@@ -87,11 +87,35 @@ I believe great software isn't just about writing code — it's about making the
 
 ## 🐍 Contribution Activity
 
-<div align="center">
 
-<img src="https://raw.githubusercontent.com/sachin-tp/sachin-tp/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
+<hr>
 
-</div>
+<h2 align="center">🐍 Contribution Activity</h2>
+
+<p align="center">
+  Watch my contributions come to life!
+</p>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/sachin-tp/sachin-tp/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/sachin-tp/sachin-tp/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake Animation"
+      src="https://raw.githubusercontent.com/sachin-tp/sachin-tp/output/github-contribution-grid-snake.svg"
+      width="100%"
+    />
+  </picture>
+</p>
+
+<hr>
+
 
 ---
 
