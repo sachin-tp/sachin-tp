@@ -1,47 +1,110 @@
-<!--
-**sachin-tp/sachin-tp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+ <div align="center">
 
-<h1 align="center"> 👋 </h1>
-<!-- <div align="center">
-  <img src="https://github.com/Ileriayo/ileriayo/blob/master/images/header.gif" alt="header"/>
+# Sachin TP
+### Frontend Engineer · React · TypeScript · Next.js
+
+Building scalable, performant, and maintainable web experiences.
+
+<p>
+  <a href="https://www.linkedin.com/in/sachin-tp-737662215/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sachin.tp@outlook.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-India-138808?style=flat-square" />
+</p>
+
 </div>
-<p align="center"> (Open for Hiring)</p> -->
 
-<h2 align="center"> 👨‍💻 Whoami</h2>
-<p align="center">
-  <samp>I'm a Frontend Developer passionate about building scalable, reusable, and maintainable web applications.I work primarily with React.js, TypeScript, Next.js, and JavaScript, with a focus on scalable, reusable components, clean architecture, and maintainable code.I enjoy turning Figma designs into responsive, accessible interfaces, collaborating with backend developers and UI/UX designers, and continuously improving my engineering skills.
-  </samp>
+---
+
+## 👨‍💻 About Me
+
+I'm a Frontend Developer passionate about engineering scalable, reusable, and user-centric web applications.
+
+My primary focus is building modern web interfaces using **React.js, TypeScript, Next.js, and JavaScript**, with an emphasis on:
+
+- Clean architecture and reusable component systems.
+- Performance optimization and maintainable code.
+- Responsive, accessible, and intuitive user interfaces.
+- Translating Figma designs into production-ready applications.
+- Effective collaboration between frontend, backend, and design teams.
+
+I believe great software isn't just about writing code — it's about making the right engineering decisions from the beginning.
+
+---
+
+## ⚡ Tech Stack
+
+### Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
 </p>
 
-<hr>
+### Backend & Database
 
-<h2 align="center"> 🔭 Tools of Trade</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/tailwind-css%20-%231572B6.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;&nbsp;
-</p>
-<p align="center">React js, TypeScript, JavaScript, Tailwind CSS, Figma.</p>
-
-<!-- <hr> -->
-
-<!-- <h2 align="center">💬 My Blog Articles</h2>
-<p align="center" align='right'>
-  <a target="_blank"href="https://dev.to/ileriayo"><img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://medium.com/@ileriayoadebiyi"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-</p> -->
-
-<hr>
-
-<h2  align="center">📫 Reach me on</h2>
-<p align="center">
-  <a target="_blank"href="https://www.linkedin.com/in/sachin-tp-737662215/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- <a target="_blank"href="https://twitter.com/ileriayooo"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; -->
-  <a href="mailto:sachin.tp@outlook.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,postgres,firebase" />
 </p>
 
-<hr>
+### Tools & Workflow
 
-<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,linux" />
+</p>
 
+---
+
+## 🧠 Engineering Interests
+
+- Frontend Architecture & Design Systems
+- React Performance Optimization
+- Full-Stack Application Development
+- REST API Design & Integration
+- AI-Driven Software Development
+- Agentic AI & Intelligent Applications
+- Software Architecture & System Design
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sachin-tp&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-tp&layout=compact&theme=transparent&hide_border=true" />
+
+<br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=sachin-tp&theme=transparent&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sachin-tp/sachin-tp/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in discussing software engineering, frontend architecture, modern web technologies, and innovative product ideas.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sachin-tp-737662215/">LinkedIn</a> •
+  <a href="mailto:sachin.tp@outlook.com">Email</a> •
+  <a href="https://github.com/sachin-tp">GitHub</a>
+</p>
+
+<p align="center">
+  <i>"Building better software, one engineering decision at a time."</i>
+</p>
