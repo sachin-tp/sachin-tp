@@ -106,12 +106,19 @@
 
 <div align="center">
 
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=sachin-tp&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9&rank_icon=github" alt="Sachin's GitHub Stats" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-tp&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+  <!-- High-Uptime Profile Summary & Commit Velocity -->
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sachin-tp&theme=tokyonight" alt="Profile Details" />
+
+  <br/>
+
+  <!-- Top Languages & Repo Stats (Reliable Mirrors) -->
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sachin-tp&theme=tokyonight" alt="Top Languages by Repo" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sachin-tp&theme=tokyonight" alt="GitHub Stats" />
 
   <br/><br/>
 
-  <img width="85%" src="https://streak-stats.demolab.com?user=sachin-tp&theme=tokyonight&hide_border=true&background=00000000&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
+  <!-- Fixed Streak Stats (Standard 6-digit hex codes) -->
+  <img width="85%" src="https://streak-stats.demolab.com?user=sachin-tp&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
 
 </div>
 
